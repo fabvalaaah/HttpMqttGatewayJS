@@ -1,6 +1,6 @@
 # HttpMqttGatewayJS
 
-This Node.js software is a gateway forwarding data incoming from a local network HTTP port to a specific topic of an MQTT broker.
+This Node.js software is a gateway forwarding data incoming from a local network port to a specific topic of an MQTT broker.
 
 ## Installation
 
