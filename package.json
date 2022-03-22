@@ -1,6 +1,6 @@
 {
   "name": "http-mqtt-gateway-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "http",
     "mqtt",
@@ -27,7 +27,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "4.17.1",
-    "mqtt": "4.2.6"
+    "express": "4.17.3",
+    "mqtt": "4.3.7"
   }
 }
