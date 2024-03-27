@@ -27,7 +27,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "4.17.3",
+    "express": "4.19.2",
     "mqtt": "4.3.7"
   }
 }
